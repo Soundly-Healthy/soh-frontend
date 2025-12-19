@@ -1,2 +1,2 @@
-# SOH-frontend
-Frontend for SOH app
+# SoH-frontend
+Frontend for SoH app
